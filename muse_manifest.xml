@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/solar-getting-started" resolutions="1x" timestamp="1531491389050">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/solar-getting-started" resolutions="1x" timestamp="1531941775383">
   <folder name="css">
     <file name="site_global.css" crc="3899992807"/>
-    <file name="index.css" crc="4105898146" ref="index"/>
+    <file name="index.css" crc="4071376993" ref="index"/>
     <file name="nomq_index.css" crc="3940430097" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -88,5 +88,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="158299817" seo="true" mt="1531491372026" redirect="true"/>
+  <file name="index.html" crc="4238610381" seo="true" mt="1531941761651" redirect="true"/>
 </manifest>
